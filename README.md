@@ -16,9 +16,5 @@ There are several console.log throughout the code to see what the values are thr
 
 ### Shout outs:
 
-The class collab on Slack // 
-<<<<<<< HEAD
-Stack Overflow
-=======
-Stack Overflow
->>>>>>> bd73a9a4c860755bdfe8c053d6b42a2a000be95c
+The class collab on Slack // Stack Overflow
+
